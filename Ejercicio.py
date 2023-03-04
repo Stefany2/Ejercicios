@@ -2,8 +2,6 @@
 # y el ultimo valor de la lista, for ejemplo:
 #list= ["red","blue",...,"white"]
 
-list = ["red","blue","....","white"]
-print(list)
-print(list[1])
-list[2]= "naranjado"
-print(list)
+list = ["red","blue","orange","white", "black"]
+print("imprimir el primer valor: ",list[0])
+print("imprimir el primer valor: ",list[4])
